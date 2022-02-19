@@ -1,0 +1,10 @@
+C:\Users\syche\source\repos\Lab2_8_1\bin\Debug\Lab2_8_1.exe.config
+C:\Users\syche\source\repos\Lab2_8_1\bin\Debug\Lab2_8_1.exe
+C:\Users\syche\source\repos\Lab2_8_1\bin\Debug\Lab2_8_1.pdb
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.csproj.AssemblyReference.cache
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.Form1.resources
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.Properties.Resources.resources
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.csproj.GenerateResource.cache
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.csproj.CoreCompileInputs.cache
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.exe
+C:\Users\syche\source\repos\Lab2_8_1\obj\Debug\Lab2_8_1.pdb
