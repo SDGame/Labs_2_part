@@ -1,0 +1,10 @@
+C:\All\C#\Lab2_5_1\bin\Debug\Lab2_5_1.exe.config
+C:\All\C#\Lab2_5_1\bin\Debug\Lab2_5_1.exe
+C:\All\C#\Lab2_5_1\bin\Debug\Lab2_5_1.pdb
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.csproj.AssemblyReference.cache
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.Form1.resources
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.Properties.Resources.resources
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.csproj.GenerateResource.cache
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.csproj.CoreCompileInputs.cache
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.exe
+C:\All\C#\Lab2_5_1\obj\Debug\Lab2_5_1.pdb
