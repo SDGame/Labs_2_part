@@ -1,0 +1,11 @@
+C:\All\C#\Lab14_5_2\bin\Debug\Lab14_5_2.exe.config
+C:\All\C#\Lab14_5_2\bin\Debug\Lab14_5_2.exe
+C:\All\C#\Lab14_5_2\bin\Debug\Lab14_5_2.pdb
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.csproj.AssemblyReference.cache
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.csproj.SuggestedBindingRedirects.cache
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.Form1.resources
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.Properties.Resources.resources
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.csproj.GenerateResource.cache
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.csproj.CoreCompileInputs.cache
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.exe
+C:\All\C#\Lab14_5_2\obj\Debug\Lab14_5_2.pdb
