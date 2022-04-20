@@ -1,0 +1,11 @@
+C:\Users\syche\source\repos\Lab2_6_1\bin\Debug\Lab6_2_1.exe.config
+C:\Users\syche\source\repos\Lab2_6_1\bin\Debug\Lab6_2_1.exe
+C:\Users\syche\source\repos\Lab2_6_1\bin\Debug\Lab6_2_1.pdb
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab2_6_1.csproj.AssemblyReference.cache
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab2_6_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab6_2_1.Form1.resources
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab6_2_1.Properties.Resources.resources
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab2_6_1.csproj.GenerateResource.cache
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab2_6_1.csproj.CoreCompileInputs.cache
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab6_2_1.exe
+C:\Users\syche\source\repos\Lab2_6_1\obj\Debug\Lab6_2_1.pdb
