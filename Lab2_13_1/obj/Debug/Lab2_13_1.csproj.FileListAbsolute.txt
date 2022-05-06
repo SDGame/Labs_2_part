@@ -1,0 +1,11 @@
+C:\All\C#\Lab2_13_1\bin\Debug\Lab2_13_1.exe.config
+C:\All\C#\Lab2_13_1\bin\Debug\Lab2_13_1.exe
+C:\All\C#\Lab2_13_1\bin\Debug\Lab2_13_1.pdb
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.csproj.AssemblyReference.cache
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.csproj.SuggestedBindingRedirects.cache
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.Form1.resources
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.Properties.Resources.resources
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.csproj.GenerateResource.cache
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.csproj.CoreCompileInputs.cache
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.exe
+C:\All\C#\Lab2_13_1\obj\Debug\Lab2_13_1.pdb
