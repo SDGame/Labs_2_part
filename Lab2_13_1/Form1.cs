@@ -63,6 +63,10 @@ namespace Lab2_13_1
                     MessageBox.Show("Введите 4 числа для работы программы", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+            else if(e.KeyCode == Keys.Escape)
+            {
+                if (MessageBox.Show("Вы уверены что хотите выйти?", "Выход", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes) { Environment.Exit(0); }
+            }
         }
     }
 }
