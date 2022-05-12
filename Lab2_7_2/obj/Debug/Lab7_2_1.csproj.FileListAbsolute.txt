@@ -1,0 +1,10 @@
+C:\All\C#\Lab7_2_1\bin\Debug\Lab7_2_1.exe.config
+C:\All\C#\Lab7_2_1\bin\Debug\Lab7_2_1.exe
+C:\All\C#\Lab7_2_1\bin\Debug\Lab7_2_1.pdb
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.csproj.AssemblyReference.cache
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.Form1.resources
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.Properties.Resources.resources
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.csproj.GenerateResource.cache
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.csproj.CoreCompileInputs.cache
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.exe
+C:\All\C#\Lab7_2_1\obj\Debug\Lab7_2_1.pdb
