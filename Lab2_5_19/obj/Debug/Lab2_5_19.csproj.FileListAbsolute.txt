@@ -1,0 +1,11 @@
+C:\All\C#\Lab2_5_19\bin\Debug\Lab2_5_19.exe.config
+C:\All\C#\Lab2_5_19\bin\Debug\Lab2_5_19.exe
+C:\All\C#\Lab2_5_19\bin\Debug\Lab2_5_19.pdb
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.csproj.AssemblyReference.cache
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.csproj.SuggestedBindingRedirects.cache
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.Form1.resources
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.Properties.Resources.resources
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.csproj.GenerateResource.cache
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.csproj.CoreCompileInputs.cache
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.exe
+C:\All\C#\Lab2_5_19\obj\Debug\Lab2_5_19.pdb
