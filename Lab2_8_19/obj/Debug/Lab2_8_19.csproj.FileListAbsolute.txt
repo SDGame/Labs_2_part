@@ -1,0 +1,22 @@
+C:\Users\syche\source\repos\Lab2_8_19\bin\Debug\Lab2_8_19.exe.config
+C:\Users\syche\source\repos\Lab2_8_19\bin\Debug\Lab2_8_19.exe
+C:\Users\syche\source\repos\Lab2_8_19\bin\Debug\Lab2_8_19.pdb
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.AssemblyReference.cache
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.SuggestedBindingRedirects.cache
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.Form1.resources
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.Properties.Resources.resources
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.GenerateResource.cache
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.CoreCompileInputs.cache
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.exe
+C:\Users\syche\source\repos\Lab2_8_19\obj\Debug\Lab2_8_19.pdb
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.AssemblyReference.cache
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.SuggestedBindingRedirects.cache
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.Form1.resources
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.Properties.Resources.resources
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.GenerateResource.cache
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.csproj.CoreCompileInputs.cache
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.exe
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\obj\Debug\Lab2_8_19.pdb
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\bin\Debug\Lab2_8_19.exe.config
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\bin\Debug\Lab2_8_19.exe
+C:\Users\syche\Desktop\88 kflf\Lab2_8_19\bin\Debug\Lab2_8_19.pdb
